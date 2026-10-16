@@ -31,7 +31,9 @@ Tecnologías que quiero aprender y utilizar en mis proyectos:
 
 <div align="center">
 
-!HTML5 !CSS3 !JavaScript !Python !Git !GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" alt="HTML, CSS, JavaScript, Python, Git y GitHub" />
+</p>
 
 </div>
 
@@ -39,11 +41,13 @@ github_stats 📊
 
 <div align="center">
 
-!GitHub Stats
-
-!Top Languages
-
-!GitHub Streak
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AntonioGlezl&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGlezl&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=AntonioGlezl&theme=dark&hide_border=true&ring=39FF14&fire=00CC66&currStreakLabel=39FF14" alt="GitHub Streak" />
+</p>
 
 </div>
 
@@ -51,7 +55,13 @@ contribution_snake 🐍
 
 <div align="center">
 
-!Snake animation
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioGlezl/AntonioGlezl/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioGlezl/AntonioGlezl/output/github-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/AntonioGlezl/AntonioGlezl/output/github-snake.svg" width="100%">
+  </picture>
+</p>
 
 </div>
 
