@@ -1,103 +1,39 @@
-!Banner
-
 <div align="center">
 
-> Hola, mundo! 👾
-AntonioGlezl — Junior Developer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Antonio+Gonzalez;Junior+Developer;M%C3%A1laga%2C+Espa%C3%B1a">
+  <img alt="Antonio Gonzalez — Junior Developer — Málaga, España" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=600&height=60&lines=Antonio+Gonzalez;Junior+Developer;M%C3%A1laga%2C+Espa%C3%B1a">
+</picture>
 
-💻 Aprendiendo · 🟢 Construyendo · 🚀 Evolucionando
-
-![GitHub](https://img.shields.io/badge/GitHub-AntonioGlezl-00ff66?style=for-the-badge&logo=github&logoColor=black) ![Profile Views](https://komarev.com/ghpvc/?username=AntonioGlezl&style=for-the-badge&color=00cc66&label=VISITAS)
+Desarrollador junior en Málaga. Construyo aplicaciones web de punta a punta,<br>
+del frontend con React y Angular al backend con Node.js y Spring Boot.
 
 </div>
 
-whoami 🟢
-antonio@github:~$ whoami
-Junior Developer | Future Software Developer
+<br>
 
-antonio@github:~$ cat about_me.txt
-Apasionado por la tecnología y la programación.
-Aprendiendo paso a paso y creando mis primeros proyectos.
-Mi objetivo: mejorar cada día y convertir ideas en código.
+### Stack
 
-🌱 Actualmente estoy aprendiendo programación.
-💻 Creando proyectos para practicar y mejorar.
-🎯 Mi objetivo es desarrollar aplicaciones útiles.
-🔍 Siempre dispuesto a aprender nuevas tecnologías.
-⚡ Mi filosofía: learn() → build() → improve()
-tech_stack 🛠️
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=springboot&logoColor=white)
 
-Tecnologías que quiero aprender y utilizar en mis proyectos:
+### GitHub
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AntonioGlezl&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_title=true">
+  <img height="150" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=AntonioGlezl&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&hide_title=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGlezl&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&hide_title=true">
+  <img height="150" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGlezl&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&hide_title=true">
+</picture>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" alt="HTML, CSS, JavaScript, Python, Git y GitHub" />
-</p>
+### Contacto
 
-</div>
-
-github_stats 📊
-
-<div align="center">
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AntonioGlezl&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioGlezl&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=AntonioGlezl&theme=dark&hide_border=true&ring=39FF14&fire=00CC66&currStreakLabel=39FF14" alt="GitHub Streak" />
-</p>
-
-</div>
-
-contribution_snake 🐍
-
-<div align="center">
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioGlezl/AntonioGlezl/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioGlezl/AntonioGlezl/output/github-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/AntonioGlezl/AntonioGlezl/output/github-snake.svg" width="100%">
-  </picture>
-</p>
-
-</div>
-
-connect --with-me 🌐
-
-<div align="center">
-
-![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-00ff66?style=for-the-badge&logo=github&logoColor=black)
-
-</div>
-
-¿Quieres colaborar, compartir ideas o aprender juntos? Puedes encontrarme en GitHub.
-
-Más redes sociales y enlaces personales se añadirán aquí cuando estén disponibles.
-
-<div align="center">
-
-while (alive) { learn(); build(); repeat(); }
-
-!Footer
-
-Gracias por visitar mi perfil. ¡Nos vemos en el código! 💚
-
-</div>
-
-<!--
-**AntonioGlezl/AntonioGlezl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AntonioGlezl)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:antoniogonzalezluque2003@gmail.com)
